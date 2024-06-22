@@ -1,0 +1,71 @@
+﻿@model Clients
+<!-- Button trigger modal -->
+<button type="button" class="btn btn-primary" id="createbutton" data-bs-toggle="modal" data-bs-target="#exampleModal">
+    Create
+</button>
+<table class="table tabe-bordered" id="customers">
+    <thead>
+        <tr class="text-center">
+            <th>ID</th>
+            <th>Name</th>
+            <th>City</th>
+            <th>Salary</th>
+            <th>Operations</th>
+        </tr>
+    </thead>
+    <tbody id="fillit">
+    </tbody>
+</table>
+
+<!-- Modal -->
+<div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="exampleModalLabel">Modal title</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                <form method="post">
+                    <div class="form-gruop">
+                        <input asp-for="Id" type="hidden" />
+                        <label>Name</label>
+                        <input asp-for="Name" class="form-control" />@*autocomplete="off" to turn off showing history*@
+                    </div>
+                    <div class="form-gruop">
+                        <label>City</label>
+                        <input asp-for="City" class="form-control" />
+                    </div>
+                    <div class="form-gruop">
+                        <label>Salary</label>
+                        <input asp-for="Salary" type ="number"class="form-control" />
+                    </div>
+                </form>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                <button type="button" class="btn btn-primary" id="saveBtn" onclick="AddClientThroughAjax();">Save changes</button>
+                <button type="button" class="btn btn-warning" style="display:none;" id="updateBtn" onclick="UpdateClientThroughAjax();">Update</button>
+            </div>
+        </div>
+    </div>
+</div>
+<div style="display:none;">
+<p>Video Followed https://www.youtube.com/watch?v=GfvcYSn9qPs&list=PLun48DKtE4y5kJ7Oi5A6InQYg7ZiBwZmW&index=15&ab_channel=rst9454<br/>
+https://www.youtube.com/watch?v=PnrnyhdXJYs&list=PLun48DKtE4y5kJ7Oi5A6InQYg7ZiBwZmW&index=18&ab_channel=rst9454</p>
+For DataTable to work  <br />
+Include jquery.dataTables.js and min file at layout file in said sequence<br />
+Give path to jquery.dataTables.css and min in layout file<br />
+include section scripts here and write code as said.<br />
+Do not need to include any specila datatablework.js and write code in it. Simply put it here<br />
+<h5>Note: Only problem is runtime loading of data Contents here due to use of Ajax, That's y Seach not working</h5>
+</div>
+@section scripts{
+    
+    <script src="~/js/Cutom.js"></script>
+}
+
+
+
+
+

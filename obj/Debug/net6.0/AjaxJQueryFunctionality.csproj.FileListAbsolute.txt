@@ -1,0 +1,348 @@
+C:\Users\Samie Ullah\source\repos\AjaxJQueryFunctionality\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Samie Ullah\source\repos\AjaxJQueryFunctionality\bin\Debug\net6.0\appsettings.json
+C:\Users\Samie Ullah\source\repos\AjaxJQueryFunctionality\bin\Debug\net6.0\AjaxJQueryFunctionality.staticwebassets.runtime.json
+C:\Users\Samie Ullah\source\repos\AjaxJQueryFunctionality\bin\Debug\net6.0\AjaxJQueryFunctionality.exe
+C:\Users\Samie Ullah\source\repos\AjaxJQueryFunctionality\bin\Debug\net6.0\AjaxJQueryFunctionality.deps.json
+C:\Users\Samie Ullah\source\repos\AjaxJQueryFunctionality\bin\Debug\net6.0\AjaxJQueryFunctionality.runtimeconfig.json
+C:\Users\Samie Ullah\source\repos\AjaxJQueryFunctionality\bin\Debug\net6.0\AjaxJQueryFunctionality.dll
+C:\Users\Samie Ullah\source\repos\AjaxJQueryFunctionality\bin\Debug\net6.0\AjaxJQueryFunctionality.pdb
+C:\Users\Samie Ullah\source\repos\AjaxJQueryFunctionality\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\Samie Ullah\source\repos\AjaxJQueryFunctionality\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\Samie Ullah\source\repos\AjaxJQueryFunctionality\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Samie Ullah\source\repos\AjaxJQueryFunctionality\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Samie Ullah\source\repos\AjaxJQueryFunctionality\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Samie Ullah\source\repos\AjaxJQueryFunctionality\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Samie Ullah\source\repos\AjaxJQueryFunctionality\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Samie Ullah\source\repos\AjaxJQueryFunctionality\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Samie Ullah\source\repos\AjaxJQueryFunctionality\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Samie Ullah\source\repos\AjaxJQueryFunctionality\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Samie Ullah\source\repos\AjaxJQueryFunctionality\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Samie Ullah\source\repos\AjaxJQueryFunctionality\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Samie Ullah\source\repos\AjaxJQueryFunctionality\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Samie Ullah\source\repos\AjaxJQueryFunctionality\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Samie Ullah\source\repos\AjaxJQueryFunctionality\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Samie Ullah\source\repos\AjaxJQueryFunctionality\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Samie Ullah\source\repos\AjaxJQueryFunctionality\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Samie Ullah\source\repos\AjaxJQueryFunctionality\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Samie Ullah\source\repos\AjaxJQueryFunctionality\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Samie Ullah\source\repos\AjaxJQueryFunctionality\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Samie Ullah\source\repos\AjaxJQueryFunctionality\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Samie Ullah\source\repos\AjaxJQueryFunctionality\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Samie Ullah\source\repos\AjaxJQueryFunctionality\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Samie Ullah\source\repos\AjaxJQueryFunctionality\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Samie Ullah\source\repos\AjaxJQueryFunctionality\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Samie Ullah\source\repos\AjaxJQueryFunctionality\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Samie Ullah\source\repos\AjaxJQueryFunctionality\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Samie Ullah\source\repos\AjaxJQueryFunctionality\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Samie Ullah\source\repos\AjaxJQueryFunctionality\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\Samie Ullah\source\repos\AjaxJQueryFunctionality\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Samie Ullah\source\repos\AjaxJQueryFunctionality\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\Samie Ullah\source\repos\AjaxJQueryFunctionality\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\Samie Ullah\source\repos\AjaxJQueryFunctionality\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Samie Ullah\source\repos\AjaxJQueryFunctionality\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Samie Ullah\source\repos\AjaxJQueryFunctionality\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Samie Ullah\source\repos\AjaxJQueryFunctionality\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\Samie Ullah\source\repos\AjaxJQueryFunctionality\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Samie Ullah\source\repos\AjaxJQueryFunctionality\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Samie Ullah\source\repos\AjaxJQueryFunctionality\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Samie Ullah\source\repos\AjaxJQueryFunctionality\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Samie Ullah\source\repos\AjaxJQueryFunctionality\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\Samie Ullah\source\repos\AjaxJQueryFunctionality\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Samie Ullah\source\repos\AjaxJQueryFunctionality\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Samie Ullah\source\repos\AjaxJQueryFunctionality\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Samie Ullah\source\repos\AjaxJQueryFunctionality\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Samie Ullah\source\repos\AjaxJQueryFunctionality\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Samie Ullah\source\repos\AjaxJQueryFunctionality\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Samie Ullah\source\repos\AjaxJQueryFunctionality\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Samie Ullah\source\repos\AjaxJQueryFunctionality\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Samie Ullah\source\repos\AjaxJQueryFunctionality\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Samie Ullah\source\repos\AjaxJQueryFunctionality\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Samie Ullah\source\repos\AjaxJQueryFunctionality\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Samie Ullah\source\repos\AjaxJQueryFunctionality\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Samie Ullah\source\repos\AjaxJQueryFunctionality\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Samie Ullah\source\repos\AjaxJQueryFunctionality\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Samie Ullah\source\repos\AjaxJQueryFunctionality\obj\Debug\net6.0\AjaxJQueryFunctionality.csproj.AssemblyReference.cache
+C:\Users\Samie Ullah\source\repos\AjaxJQueryFunctionality\obj\Debug\net6.0\AjaxJQueryFunctionality.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samie Ullah\source\repos\AjaxJQueryFunctionality\obj\Debug\net6.0\AjaxJQueryFunctionality.AssemblyInfoInputs.cache
+C:\Users\Samie Ullah\source\repos\AjaxJQueryFunctionality\obj\Debug\net6.0\AjaxJQueryFunctionality.AssemblyInfo.cs
+C:\Users\Samie Ullah\source\repos\AjaxJQueryFunctionality\obj\Debug\net6.0\AjaxJQueryFunctionality.csproj.CoreCompileInputs.cache
+C:\Users\Samie Ullah\source\repos\AjaxJQueryFunctionality\obj\Debug\net6.0\AjaxJQueryFunctionality.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Samie Ullah\source\repos\AjaxJQueryFunctionality\obj\Debug\net6.0\AjaxJQueryFunctionality.RazorAssemblyInfo.cache
+C:\Users\Samie Ullah\source\repos\AjaxJQueryFunctionality\obj\Debug\net6.0\AjaxJQueryFunctionality.RazorAssemblyInfo.cs
+C:\Users\Samie Ullah\source\repos\AjaxJQueryFunctionality\obj\Debug\net6.0\staticwebassets\msbuild.AjaxJQueryFunctionality.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Samie Ullah\source\repos\AjaxJQueryFunctionality\obj\Debug\net6.0\staticwebassets\msbuild.build.AjaxJQueryFunctionality.props
+C:\Users\Samie Ullah\source\repos\AjaxJQueryFunctionality\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.AjaxJQueryFunctionality.props
+C:\Users\Samie Ullah\source\repos\AjaxJQueryFunctionality\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.AjaxJQueryFunctionality.props
+C:\Users\Samie Ullah\source\repos\AjaxJQueryFunctionality\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Samie Ullah\source\repos\AjaxJQueryFunctionality\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Samie Ullah\source\repos\AjaxJQueryFunctionality\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Samie Ullah\source\repos\AjaxJQueryFunctionality\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Samie Ullah\source\repos\AjaxJQueryFunctionality\obj\Debug\net6.0\scopedcss\bundle\AjaxJQueryFunctionality.styles.css
+C:\Users\Samie Ullah\source\repos\AjaxJQueryFunctionality\obj\Debug\net6.0\scopedcss\projectbundle\AjaxJQueryFunctionality.bundle.scp.css
+C:\Users\Samie Ullah\source\repos\AjaxJQueryFunctionality\obj\Debug\net6.0\AjaxJQueryFunctionality.csproj.CopyComplete
+C:\Users\Samie Ullah\source\repos\AjaxJQueryFunctionality\obj\Debug\net6.0\AjaxJQueryFunctionality.dll
+C:\Users\Samie Ullah\source\repos\AjaxJQueryFunctionality\obj\Debug\net6.0\refint\AjaxJQueryFunctionality.dll
+C:\Users\Samie Ullah\source\repos\AjaxJQueryFunctionality\obj\Debug\net6.0\AjaxJQueryFunctionality.pdb
+C:\Users\Samie Ullah\source\repos\AjaxJQueryFunctionality\obj\Debug\net6.0\AjaxJQueryFunctionality.genruntimeconfig.cache
+C:\Users\Samie Ullah\source\repos\AjaxJQueryFunctionality\obj\Debug\net6.0\ref\AjaxJQueryFunctionality.dll
+C:\dOTnet\AjaxJQueryFunctionality\bin\Debug\net6.0\appsettings.Development.json
+C:\dOTnet\AjaxJQueryFunctionality\bin\Debug\net6.0\appsettings.json
+C:\dOTnet\AjaxJQueryFunctionality\bin\Debug\net6.0\AjaxJQueryFunctionality.staticwebassets.runtime.json
+C:\dOTnet\AjaxJQueryFunctionality\bin\Debug\net6.0\AjaxJQueryFunctionality.exe
+C:\dOTnet\AjaxJQueryFunctionality\bin\Debug\net6.0\AjaxJQueryFunctionality.deps.json
+C:\dOTnet\AjaxJQueryFunctionality\bin\Debug\net6.0\AjaxJQueryFunctionality.runtimeconfig.json
+C:\dOTnet\AjaxJQueryFunctionality\bin\Debug\net6.0\AjaxJQueryFunctionality.dll
+C:\dOTnet\AjaxJQueryFunctionality\bin\Debug\net6.0\AjaxJQueryFunctionality.pdb
+C:\dOTnet\AjaxJQueryFunctionality\bin\Debug\net6.0\Azure.Core.dll
+C:\dOTnet\AjaxJQueryFunctionality\bin\Debug\net6.0\Azure.Identity.dll
+C:\dOTnet\AjaxJQueryFunctionality\bin\Debug\net6.0\Humanizer.dll
+C:\dOTnet\AjaxJQueryFunctionality\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\dOTnet\AjaxJQueryFunctionality\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\dOTnet\AjaxJQueryFunctionality\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\dOTnet\AjaxJQueryFunctionality\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\dOTnet\AjaxJQueryFunctionality\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\dOTnet\AjaxJQueryFunctionality\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\dOTnet\AjaxJQueryFunctionality\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\dOTnet\AjaxJQueryFunctionality\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\dOTnet\AjaxJQueryFunctionality\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\dOTnet\AjaxJQueryFunctionality\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\dOTnet\AjaxJQueryFunctionality\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\dOTnet\AjaxJQueryFunctionality\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\dOTnet\AjaxJQueryFunctionality\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\dOTnet\AjaxJQueryFunctionality\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\dOTnet\AjaxJQueryFunctionality\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\dOTnet\AjaxJQueryFunctionality\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\dOTnet\AjaxJQueryFunctionality\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\dOTnet\AjaxJQueryFunctionality\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\dOTnet\AjaxJQueryFunctionality\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\dOTnet\AjaxJQueryFunctionality\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\dOTnet\AjaxJQueryFunctionality\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\dOTnet\AjaxJQueryFunctionality\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\dOTnet\AjaxJQueryFunctionality\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\dOTnet\AjaxJQueryFunctionality\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\dOTnet\AjaxJQueryFunctionality\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\dOTnet\AjaxJQueryFunctionality\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\dOTnet\AjaxJQueryFunctionality\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\dOTnet\AjaxJQueryFunctionality\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\dOTnet\AjaxJQueryFunctionality\bin\Debug\net6.0\System.CodeDom.dll
+C:\dOTnet\AjaxJQueryFunctionality\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\dOTnet\AjaxJQueryFunctionality\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\dOTnet\AjaxJQueryFunctionality\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\dOTnet\AjaxJQueryFunctionality\bin\Debug\net6.0\System.Memory.Data.dll
+C:\dOTnet\AjaxJQueryFunctionality\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\dOTnet\AjaxJQueryFunctionality\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\dOTnet\AjaxJQueryFunctionality\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\dOTnet\AjaxJQueryFunctionality\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\dOTnet\AjaxJQueryFunctionality\bin\Debug\net6.0\System.Text.Json.dll
+C:\dOTnet\AjaxJQueryFunctionality\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\dOTnet\AjaxJQueryFunctionality\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\dOTnet\AjaxJQueryFunctionality\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\dOTnet\AjaxJQueryFunctionality\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\dOTnet\AjaxJQueryFunctionality\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\dOTnet\AjaxJQueryFunctionality\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\dOTnet\AjaxJQueryFunctionality\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\dOTnet\AjaxJQueryFunctionality\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\dOTnet\AjaxJQueryFunctionality\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\dOTnet\AjaxJQueryFunctionality\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\dOTnet\AjaxJQueryFunctionality\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\dOTnet\AjaxJQueryFunctionality\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\dOTnet\AjaxJQueryFunctionality\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\dOTnet\AjaxJQueryFunctionality\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\dOTnet\AjaxJQueryFunctionality\obj\Debug\net6.0\AjaxJQueryFunctionality.csproj.AssemblyReference.cache
+C:\dOTnet\AjaxJQueryFunctionality\obj\Debug\net6.0\AjaxJQueryFunctionality.GeneratedMSBuildEditorConfig.editorconfig
+C:\dOTnet\AjaxJQueryFunctionality\obj\Debug\net6.0\AjaxJQueryFunctionality.AssemblyInfoInputs.cache
+C:\dOTnet\AjaxJQueryFunctionality\obj\Debug\net6.0\AjaxJQueryFunctionality.AssemblyInfo.cs
+C:\dOTnet\AjaxJQueryFunctionality\obj\Debug\net6.0\AjaxJQueryFunctionality.csproj.CoreCompileInputs.cache
+C:\dOTnet\AjaxJQueryFunctionality\obj\Debug\net6.0\AjaxJQueryFunctionality.MvcApplicationPartsAssemblyInfo.cache
+C:\dOTnet\AjaxJQueryFunctionality\obj\Debug\net6.0\AjaxJQueryFunctionality.RazorAssemblyInfo.cache
+C:\dOTnet\AjaxJQueryFunctionality\obj\Debug\net6.0\AjaxJQueryFunctionality.RazorAssemblyInfo.cs
+C:\dOTnet\AjaxJQueryFunctionality\obj\Debug\net6.0\staticwebassets\msbuild.AjaxJQueryFunctionality.Microsoft.AspNetCore.StaticWebAssets.props
+C:\dOTnet\AjaxJQueryFunctionality\obj\Debug\net6.0\staticwebassets\msbuild.build.AjaxJQueryFunctionality.props
+C:\dOTnet\AjaxJQueryFunctionality\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.AjaxJQueryFunctionality.props
+C:\dOTnet\AjaxJQueryFunctionality\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.AjaxJQueryFunctionality.props
+C:\dOTnet\AjaxJQueryFunctionality\obj\Debug\net6.0\staticwebassets.pack.json
+C:\dOTnet\AjaxJQueryFunctionality\obj\Debug\net6.0\staticwebassets.build.json
+C:\dOTnet\AjaxJQueryFunctionality\obj\Debug\net6.0\staticwebassets.development.json
+C:\dOTnet\AjaxJQueryFunctionality\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\dOTnet\AjaxJQueryFunctionality\obj\Debug\net6.0\scopedcss\bundle\AjaxJQueryFunctionality.styles.css
+C:\dOTnet\AjaxJQueryFunctionality\obj\Debug\net6.0\scopedcss\projectbundle\AjaxJQueryFunctionality.bundle.scp.css
+C:\dOTnet\AjaxJQueryFunctionality\obj\Debug\net6.0\AjaxJQueryFunctionality.csproj.CopyComplete
+C:\dOTnet\AjaxJQueryFunctionality\obj\Debug\net6.0\AjaxJQueryFunctionality.dll
+C:\dOTnet\AjaxJQueryFunctionality\obj\Debug\net6.0\refint\AjaxJQueryFunctionality.dll
+C:\dOTnet\AjaxJQueryFunctionality\obj\Debug\net6.0\AjaxJQueryFunctionality.pdb
+C:\dOTnet\AjaxJQueryFunctionality\obj\Debug\net6.0\AjaxJQueryFunctionality.genruntimeconfig.cache
+C:\dOTnet\AjaxJQueryFunctionality\obj\Debug\net6.0\ref\AjaxJQueryFunctionality.dll
+D:\DotNet\Examples\AjaxJQueryFunctionality\bin\Debug\net6.0\appsettings.Development.json
+D:\DotNet\Examples\AjaxJQueryFunctionality\bin\Debug\net6.0\appsettings.json
+D:\DotNet\Examples\AjaxJQueryFunctionality\bin\Debug\net6.0\AjaxJQueryFunctionality.staticwebassets.runtime.json
+D:\DotNet\Examples\AjaxJQueryFunctionality\bin\Debug\net6.0\AjaxJQueryFunctionality.exe
+D:\DotNet\Examples\AjaxJQueryFunctionality\bin\Debug\net6.0\AjaxJQueryFunctionality.deps.json
+D:\DotNet\Examples\AjaxJQueryFunctionality\bin\Debug\net6.0\AjaxJQueryFunctionality.runtimeconfig.json
+D:\DotNet\Examples\AjaxJQueryFunctionality\bin\Debug\net6.0\AjaxJQueryFunctionality.dll
+D:\DotNet\Examples\AjaxJQueryFunctionality\bin\Debug\net6.0\AjaxJQueryFunctionality.pdb
+D:\DotNet\Examples\AjaxJQueryFunctionality\bin\Debug\net6.0\Azure.Core.dll
+D:\DotNet\Examples\AjaxJQueryFunctionality\bin\Debug\net6.0\Azure.Identity.dll
+D:\DotNet\Examples\AjaxJQueryFunctionality\bin\Debug\net6.0\Humanizer.dll
+D:\DotNet\Examples\AjaxJQueryFunctionality\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\DotNet\Examples\AjaxJQueryFunctionality\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\DotNet\Examples\AjaxJQueryFunctionality\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\DotNet\Examples\AjaxJQueryFunctionality\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\DotNet\Examples\AjaxJQueryFunctionality\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\DotNet\Examples\AjaxJQueryFunctionality\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\DotNet\Examples\AjaxJQueryFunctionality\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\DotNet\Examples\AjaxJQueryFunctionality\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\DotNet\Examples\AjaxJQueryFunctionality\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\DotNet\Examples\AjaxJQueryFunctionality\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\DotNet\Examples\AjaxJQueryFunctionality\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\DotNet\Examples\AjaxJQueryFunctionality\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\DotNet\Examples\AjaxJQueryFunctionality\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\DotNet\Examples\AjaxJQueryFunctionality\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\DotNet\Examples\AjaxJQueryFunctionality\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\DotNet\Examples\AjaxJQueryFunctionality\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\DotNet\Examples\AjaxJQueryFunctionality\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\DotNet\Examples\AjaxJQueryFunctionality\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\DotNet\Examples\AjaxJQueryFunctionality\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\DotNet\Examples\AjaxJQueryFunctionality\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\DotNet\Examples\AjaxJQueryFunctionality\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\DotNet\Examples\AjaxJQueryFunctionality\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\DotNet\Examples\AjaxJQueryFunctionality\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\DotNet\Examples\AjaxJQueryFunctionality\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\DotNet\Examples\AjaxJQueryFunctionality\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\DotNet\Examples\AjaxJQueryFunctionality\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\DotNet\Examples\AjaxJQueryFunctionality\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\DotNet\Examples\AjaxJQueryFunctionality\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\DotNet\Examples\AjaxJQueryFunctionality\bin\Debug\net6.0\System.CodeDom.dll
+D:\DotNet\Examples\AjaxJQueryFunctionality\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\DotNet\Examples\AjaxJQueryFunctionality\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\DotNet\Examples\AjaxJQueryFunctionality\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\DotNet\Examples\AjaxJQueryFunctionality\bin\Debug\net6.0\System.Memory.Data.dll
+D:\DotNet\Examples\AjaxJQueryFunctionality\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\DotNet\Examples\AjaxJQueryFunctionality\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\DotNet\Examples\AjaxJQueryFunctionality\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\DotNet\Examples\AjaxJQueryFunctionality\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\DotNet\Examples\AjaxJQueryFunctionality\bin\Debug\net6.0\System.Text.Json.dll
+D:\DotNet\Examples\AjaxJQueryFunctionality\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\DotNet\Examples\AjaxJQueryFunctionality\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\DotNet\Examples\AjaxJQueryFunctionality\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\DotNet\Examples\AjaxJQueryFunctionality\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DotNet\Examples\AjaxJQueryFunctionality\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DotNet\Examples\AjaxJQueryFunctionality\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DotNet\Examples\AjaxJQueryFunctionality\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DotNet\Examples\AjaxJQueryFunctionality\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\DotNet\Examples\AjaxJQueryFunctionality\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\DotNet\Examples\AjaxJQueryFunctionality\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\DotNet\Examples\AjaxJQueryFunctionality\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\DotNet\Examples\AjaxJQueryFunctionality\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\DotNet\Examples\AjaxJQueryFunctionality\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\DotNet\Examples\AjaxJQueryFunctionality\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\DotNet\Examples\AjaxJQueryFunctionality\obj\Debug\net6.0\AjaxJQueryFunctionality.csproj.AssemblyReference.cache
+D:\DotNet\Examples\AjaxJQueryFunctionality\obj\Debug\net6.0\AjaxJQueryFunctionality.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNet\Examples\AjaxJQueryFunctionality\obj\Debug\net6.0\AjaxJQueryFunctionality.AssemblyInfoInputs.cache
+D:\DotNet\Examples\AjaxJQueryFunctionality\obj\Debug\net6.0\AjaxJQueryFunctionality.AssemblyInfo.cs
+D:\DotNet\Examples\AjaxJQueryFunctionality\obj\Debug\net6.0\AjaxJQueryFunctionality.csproj.CoreCompileInputs.cache
+D:\DotNet\Examples\AjaxJQueryFunctionality\obj\Debug\net6.0\AjaxJQueryFunctionality.MvcApplicationPartsAssemblyInfo.cache
+D:\DotNet\Examples\AjaxJQueryFunctionality\obj\Debug\net6.0\AjaxJQueryFunctionality.RazorAssemblyInfo.cache
+D:\DotNet\Examples\AjaxJQueryFunctionality\obj\Debug\net6.0\AjaxJQueryFunctionality.RazorAssemblyInfo.cs
+D:\DotNet\Examples\AjaxJQueryFunctionality\obj\Debug\net6.0\staticwebassets\msbuild.AjaxJQueryFunctionality.Microsoft.AspNetCore.StaticWebAssets.props
+D:\DotNet\Examples\AjaxJQueryFunctionality\obj\Debug\net6.0\staticwebassets\msbuild.build.AjaxJQueryFunctionality.props
+D:\DotNet\Examples\AjaxJQueryFunctionality\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.AjaxJQueryFunctionality.props
+D:\DotNet\Examples\AjaxJQueryFunctionality\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.AjaxJQueryFunctionality.props
+D:\DotNet\Examples\AjaxJQueryFunctionality\obj\Debug\net6.0\staticwebassets.pack.json
+D:\DotNet\Examples\AjaxJQueryFunctionality\obj\Debug\net6.0\staticwebassets.build.json
+D:\DotNet\Examples\AjaxJQueryFunctionality\obj\Debug\net6.0\staticwebassets.development.json
+D:\DotNet\Examples\AjaxJQueryFunctionality\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\DotNet\Examples\AjaxJQueryFunctionality\obj\Debug\net6.0\scopedcss\bundle\AjaxJQueryFunctionality.styles.css
+D:\DotNet\Examples\AjaxJQueryFunctionality\obj\Debug\net6.0\scopedcss\projectbundle\AjaxJQueryFunctionality.bundle.scp.css
+D:\DotNet\Examples\AjaxJQueryFunctionality\obj\Debug\net6.0\AjaxJQueryFunctionality.csproj.CopyComplete
+D:\DotNet\Examples\AjaxJQueryFunctionality\obj\Debug\net6.0\AjaxJQueryFunctionality.dll
+D:\DotNet\Examples\AjaxJQueryFunctionality\obj\Debug\net6.0\refint\AjaxJQueryFunctionality.dll
+D:\DotNet\Examples\AjaxJQueryFunctionality\obj\Debug\net6.0\AjaxJQueryFunctionality.pdb
+D:\DotNet\Examples\AjaxJQueryFunctionality\obj\Debug\net6.0\AjaxJQueryFunctionality.genruntimeconfig.cache
+D:\DotNet\Examples\AjaxJQueryFunctionality\obj\Debug\net6.0\ref\AjaxJQueryFunctionality.dll
+D:\IT Data\DotNet\Examples\AjaxJQueryFunctionality\bin\Debug\net6.0\appsettings.Development.json
+D:\IT Data\DotNet\Examples\AjaxJQueryFunctionality\bin\Debug\net6.0\appsettings.json
+D:\IT Data\DotNet\Examples\AjaxJQueryFunctionality\bin\Debug\net6.0\AjaxJQueryFunctionality.staticwebassets.runtime.json
+D:\IT Data\DotNet\Examples\AjaxJQueryFunctionality\bin\Debug\net6.0\AjaxJQueryFunctionality.exe
+D:\IT Data\DotNet\Examples\AjaxJQueryFunctionality\bin\Debug\net6.0\AjaxJQueryFunctionality.deps.json
+D:\IT Data\DotNet\Examples\AjaxJQueryFunctionality\bin\Debug\net6.0\AjaxJQueryFunctionality.runtimeconfig.json
+D:\IT Data\DotNet\Examples\AjaxJQueryFunctionality\bin\Debug\net6.0\AjaxJQueryFunctionality.dll
+D:\IT Data\DotNet\Examples\AjaxJQueryFunctionality\bin\Debug\net6.0\AjaxJQueryFunctionality.pdb
+D:\IT Data\DotNet\Examples\AjaxJQueryFunctionality\bin\Debug\net6.0\Azure.Core.dll
+D:\IT Data\DotNet\Examples\AjaxJQueryFunctionality\bin\Debug\net6.0\Azure.Identity.dll
+D:\IT Data\DotNet\Examples\AjaxJQueryFunctionality\bin\Debug\net6.0\Humanizer.dll
+D:\IT Data\DotNet\Examples\AjaxJQueryFunctionality\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\IT Data\DotNet\Examples\AjaxJQueryFunctionality\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\IT Data\DotNet\Examples\AjaxJQueryFunctionality\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\IT Data\DotNet\Examples\AjaxJQueryFunctionality\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\IT Data\DotNet\Examples\AjaxJQueryFunctionality\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\IT Data\DotNet\Examples\AjaxJQueryFunctionality\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\IT Data\DotNet\Examples\AjaxJQueryFunctionality\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\IT Data\DotNet\Examples\AjaxJQueryFunctionality\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\IT Data\DotNet\Examples\AjaxJQueryFunctionality\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\IT Data\DotNet\Examples\AjaxJQueryFunctionality\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\IT Data\DotNet\Examples\AjaxJQueryFunctionality\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\IT Data\DotNet\Examples\AjaxJQueryFunctionality\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\IT Data\DotNet\Examples\AjaxJQueryFunctionality\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\IT Data\DotNet\Examples\AjaxJQueryFunctionality\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\IT Data\DotNet\Examples\AjaxJQueryFunctionality\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\IT Data\DotNet\Examples\AjaxJQueryFunctionality\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\IT Data\DotNet\Examples\AjaxJQueryFunctionality\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\IT Data\DotNet\Examples\AjaxJQueryFunctionality\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\IT Data\DotNet\Examples\AjaxJQueryFunctionality\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\IT Data\DotNet\Examples\AjaxJQueryFunctionality\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\IT Data\DotNet\Examples\AjaxJQueryFunctionality\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\IT Data\DotNet\Examples\AjaxJQueryFunctionality\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\IT Data\DotNet\Examples\AjaxJQueryFunctionality\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\IT Data\DotNet\Examples\AjaxJQueryFunctionality\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\IT Data\DotNet\Examples\AjaxJQueryFunctionality\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\IT Data\DotNet\Examples\AjaxJQueryFunctionality\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\IT Data\DotNet\Examples\AjaxJQueryFunctionality\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\IT Data\DotNet\Examples\AjaxJQueryFunctionality\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\IT Data\DotNet\Examples\AjaxJQueryFunctionality\bin\Debug\net6.0\System.CodeDom.dll
+D:\IT Data\DotNet\Examples\AjaxJQueryFunctionality\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\IT Data\DotNet\Examples\AjaxJQueryFunctionality\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\IT Data\DotNet\Examples\AjaxJQueryFunctionality\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\IT Data\DotNet\Examples\AjaxJQueryFunctionality\bin\Debug\net6.0\System.Memory.Data.dll
+D:\IT Data\DotNet\Examples\AjaxJQueryFunctionality\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\IT Data\DotNet\Examples\AjaxJQueryFunctionality\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\IT Data\DotNet\Examples\AjaxJQueryFunctionality\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\IT Data\DotNet\Examples\AjaxJQueryFunctionality\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\IT Data\DotNet\Examples\AjaxJQueryFunctionality\bin\Debug\net6.0\System.Text.Json.dll
+D:\IT Data\DotNet\Examples\AjaxJQueryFunctionality\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\IT Data\DotNet\Examples\AjaxJQueryFunctionality\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\IT Data\DotNet\Examples\AjaxJQueryFunctionality\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\IT Data\DotNet\Examples\AjaxJQueryFunctionality\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\IT Data\DotNet\Examples\AjaxJQueryFunctionality\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\IT Data\DotNet\Examples\AjaxJQueryFunctionality\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\IT Data\DotNet\Examples\AjaxJQueryFunctionality\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\IT Data\DotNet\Examples\AjaxJQueryFunctionality\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\IT Data\DotNet\Examples\AjaxJQueryFunctionality\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\IT Data\DotNet\Examples\AjaxJQueryFunctionality\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\IT Data\DotNet\Examples\AjaxJQueryFunctionality\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\IT Data\DotNet\Examples\AjaxJQueryFunctionality\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\IT Data\DotNet\Examples\AjaxJQueryFunctionality\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\IT Data\DotNet\Examples\AjaxJQueryFunctionality\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\IT Data\DotNet\Examples\AjaxJQueryFunctionality\obj\Debug\net6.0\AjaxJQueryFunctionality.csproj.AssemblyReference.cache
+D:\IT Data\DotNet\Examples\AjaxJQueryFunctionality\obj\Debug\net6.0\AjaxJQueryFunctionality.GeneratedMSBuildEditorConfig.editorconfig
+D:\IT Data\DotNet\Examples\AjaxJQueryFunctionality\obj\Debug\net6.0\AjaxJQueryFunctionality.AssemblyInfoInputs.cache
+D:\IT Data\DotNet\Examples\AjaxJQueryFunctionality\obj\Debug\net6.0\AjaxJQueryFunctionality.AssemblyInfo.cs
+D:\IT Data\DotNet\Examples\AjaxJQueryFunctionality\obj\Debug\net6.0\AjaxJQueryFunctionality.csproj.CoreCompileInputs.cache
+D:\IT Data\DotNet\Examples\AjaxJQueryFunctionality\obj\Debug\net6.0\AjaxJQueryFunctionality.MvcApplicationPartsAssemblyInfo.cache
+D:\IT Data\DotNet\Examples\AjaxJQueryFunctionality\obj\Debug\net6.0\AjaxJQueryFunctionality.RazorAssemblyInfo.cache
+D:\IT Data\DotNet\Examples\AjaxJQueryFunctionality\obj\Debug\net6.0\AjaxJQueryFunctionality.RazorAssemblyInfo.cs
+D:\IT Data\DotNet\Examples\AjaxJQueryFunctionality\obj\Debug\net6.0\staticwebassets.build.json
+D:\IT Data\DotNet\Examples\AjaxJQueryFunctionality\obj\Debug\net6.0\staticwebassets.development.json
+D:\IT Data\DotNet\Examples\AjaxJQueryFunctionality\obj\Debug\net6.0\staticwebassets\msbuild.AjaxJQueryFunctionality.Microsoft.AspNetCore.StaticWebAssets.props
+D:\IT Data\DotNet\Examples\AjaxJQueryFunctionality\obj\Debug\net6.0\staticwebassets\msbuild.build.AjaxJQueryFunctionality.props
+D:\IT Data\DotNet\Examples\AjaxJQueryFunctionality\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.AjaxJQueryFunctionality.props
+D:\IT Data\DotNet\Examples\AjaxJQueryFunctionality\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.AjaxJQueryFunctionality.props
+D:\IT Data\DotNet\Examples\AjaxJQueryFunctionality\obj\Debug\net6.0\staticwebassets.pack.json
+D:\IT Data\DotNet\Examples\AjaxJQueryFunctionality\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\IT Data\DotNet\Examples\AjaxJQueryFunctionality\obj\Debug\net6.0\scopedcss\bundle\AjaxJQueryFunctionality.styles.css
+D:\IT Data\DotNet\Examples\AjaxJQueryFunctionality\obj\Debug\net6.0\scopedcss\projectbundle\AjaxJQueryFunctionality.bundle.scp.css
+D:\IT Data\DotNet\Examples\AjaxJQueryFunctionality\obj\Debug\net6.0\AjaxJQue.F96F94A6.Up2Date
+D:\IT Data\DotNet\Examples\AjaxJQueryFunctionality\obj\Debug\net6.0\AjaxJQueryFunctionality.dll
+D:\IT Data\DotNet\Examples\AjaxJQueryFunctionality\obj\Debug\net6.0\refint\AjaxJQueryFunctionality.dll
+D:\IT Data\DotNet\Examples\AjaxJQueryFunctionality\obj\Debug\net6.0\AjaxJQueryFunctionality.pdb
+D:\IT Data\DotNet\Examples\AjaxJQueryFunctionality\obj\Debug\net6.0\AjaxJQueryFunctionality.genruntimeconfig.cache
+D:\IT Data\DotNet\Examples\AjaxJQueryFunctionality\obj\Debug\net6.0\ref\AjaxJQueryFunctionality.dll
